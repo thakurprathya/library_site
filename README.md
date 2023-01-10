@@ -1,2 +1,4 @@
-# library_site
-A basic website using HTML, CSS &amp; JavaScript
+# Library (Book Management Site)
+created using HTML, CSS &amp; JavaScript
+
+App Link : https://thakurprathya.github.io/library_site/
